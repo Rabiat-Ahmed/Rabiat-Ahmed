@@ -1,7 +1,11 @@
 # Hi, I'm Rabiat 👋
 **Data Analyst & Data Scientist**  
 
-📧 rabiatahmed2@gmail.com | 💼 www.linkedin.com/in/rabiatahmed | 🌐 https://sites.google.com/view/rabiatahmedportfolio
+📧 rabiatahmed2@gmail.com  
+
+💼 www.linkedin.com/in/rabiatahmed
+
+🌐 https://sites.google.com/view/rabiatahmedportfolio
 
 ## 🚀 About Me
 I translate complex datasets into clear, actionable insights. Experienced in analyzing, visualizing, designing interactive dashboards, and building statistical models and machine learning models.
