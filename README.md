@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Rabiat 👋
+**Data Analyst & Data Scientist**  
 
-<!--
-**Rabiat-Ahmed/Rabiat-Ahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📧 rabiatahmed2@gmail.com | 💼 www.linkedin.com/in/rabiatahmed | 🌐 https://sites.google.com/view/rabiatahmedportfolio
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I translate complex datasets into clear, actionable insights. Experienced in analyzing, visualizing, designing interactive dashboards, and building statistical models and machine learning models.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Languages:** Python, R, SQL
+- **Packages:** Panda, Numpy, Matplotlib, Seaborn, Scikit-learn, Statsmodels, NLTK, Sklearn.cluster, Tidyverse, Pycaret
+- **Tools:** Tableau, Power BI, Excel, Google Sheets, Bigquery
+- **Models:** Linear & Logistic Regression, Naive Bayes, Decision Tree, Random Forest, XGBoost​
+- **Others:** Web and API Scraping, Time Series Analysis, Anomaly Detection
