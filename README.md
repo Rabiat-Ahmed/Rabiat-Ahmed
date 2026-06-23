@@ -8,7 +8,7 @@
 🌐 [Portfolio](https://sites.google.com/view/rabiatahmedportfolio)
 
 ## 🚀 About Me
-I translate complex datasets into clear, actionable insights. Experienced in analyzing, visualizing, designing interactive dashboards, and building statistical models and machine learning models.
+Data professional with 5+ years of experience in data analytics and data science, with a proven track record in exploratory data analysis, visualization, statistical modelling and machine learning modelling.
 
 ## 🛠️ Tech Stack
 - **Languages:** Python, R, SQL
